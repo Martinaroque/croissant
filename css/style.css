@@ -4,3 +4,11 @@ h1 {
 .index {
   background: #ffe79a;
 }
+
+p {
+  margin: 30px;
+}
+#main-photo {
+  display: block;
+  margin: 0 auto;
+}
